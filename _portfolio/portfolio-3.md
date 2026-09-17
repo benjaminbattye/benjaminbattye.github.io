@@ -1,6 +1,6 @@
 ---
 title: "Nikon Microscopes - Design Intern"
-excerpt: "Part-time internship with Nikon's instrumentation department to develop a mount which adds a dichroic lens lens to one of their existing systems adding existing functionality for a customer. <br/><img src='/images/KinematicMount-Adapter.png'>"
+excerpt: "Part-time internship with Nikon's instrumentation department to develop a mount which adds a dichroic lens lens to one of their existing systems adding additional functionality for a customer. <br/><img src='/images/KinematicMount-Adapter.png'>"
 collection: portfolio
 ---
 
